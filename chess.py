@@ -35,7 +35,7 @@ def get_most_recent_game(username):
     
 
 if __name__ == "__main__":
-    print("<<<< This Python script demonstrates the use of Chess.com API >>>>")
+    print("<<<< This Python script demonstrates the use of chess.com API >>>>")
     while True:
         print("1. To print leaderboards, press '1'\n2. To print player rating, press '2'\n3. To watch a players last match, press '3'")
         print("4. To quit the program, press '4'")
